@@ -1,0 +1,23 @@
+.video {
+  position: relative;
+  z-index: -1;
+  top: 0;
+  left: 0;
+  width: 500px;
+  height: 400px;
+}
+
+.tituloo {
+  font: oblique bold 120% cursive;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+
+.titulo {
+  font: oblique bold 400% cursive;
+  text-align: center;
+  color: black;
+  background-color: white;
+}
+

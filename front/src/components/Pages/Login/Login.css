@@ -1,0 +1,19 @@
+.grid {
+    background-color: #bcaaa4;
+}
+
+.h5 {
+    font: oblique bold 400% cursive;
+    text-align: center;
+}
+
+.logo {
+    width: 30%;
+    height: 20%;
+    background-color: #bcaaa4;
+    border-radius: 100%;
+}
+
+.boton {
+    color: secondary;
+}
